@@ -1,0 +1,8 @@
+1. git checkout -b branca00
+5. git checkout master
+6. No, perque ens trobem editant la rama master, i la linea va ser afegida a la rama branca00, per tant, els fitxers 
+utilitzats son uns altres, encara que es trobin en el mateix lloc i amb el mateix nom.
+7. Si, perque ens trobem editant la rama branca00, la mateixa rama on hem editat el fitxer Prjava02.java
+10. git merge branca00
+12. Nomes tenim una branca en el github perque no hem fet un push de la branca00
+14. git push origin branca01
